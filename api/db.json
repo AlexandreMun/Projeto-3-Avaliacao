@@ -1,0 +1,32 @@
+{
+  "pessoas": [
+    {
+      "name": "Luiz Souza",
+      "email": "luiz@email.com",
+      "telefone": "8899999999",
+      "cpf": "00011122234",
+      "id": 1
+    },
+    {
+      "name": "carlos",
+      "email": "teste@email.com",
+      "telefone": "8899999999",
+      "cpf": "00011122235",
+      "id": 3
+    },
+    {
+      "name": "teste2",
+      "email": "teste2@email.com",
+      "telefone": "8899999999",
+      "cpf": "00011122237",
+      "id": 5
+    },
+    {
+      "name": "joao",
+      "email": "joao@email.com",
+      "telefone": "8899999999",
+      "cpf": "11122233345",
+      "id": 6
+    }
+  ]
+}
