@@ -244,6 +244,4 @@ export default function PessoaCrud() {
       {renderTable()}
     </Main>
   );
-
-  // return <Main {...headerProps}>Cadastro de Pessoa</Main>;
 }
