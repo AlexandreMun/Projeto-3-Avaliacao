@@ -2,4 +2,4 @@
 
 -> José Alexandre Munis Nogueira - 473393
 
--> Projeto 1 - HTML/CSS & JS
+-> Projeto 3 - Aplicação React
